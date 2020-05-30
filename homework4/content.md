@@ -69,13 +69,13 @@ ______
 
 **签署人**：（上述全部利益相关者签名）
 
-<font face="Zapfino">Alice</font>&emsp;<font face="Zapfino">Million Benjamin</font>
+<font face="Zapfino">Alice</font>  <font face="Zapfino">Million Benjamin</font>
 
-<font face="Zapfino">Chloe</font>&emsp;<font face="Zapfino">David</font>
+<font face="Zapfino">Chloe</font>  <font face="Zapfino">David</font>
 
-<font face="Zapfino">Eric</font>&nbsp;&emsp;<font face="Zapfino">Frank</font>
+<font face="Zapfino">Eric</font>  <font face="Zapfino">Frank</font>
 
-<font face="Zapfino">George</font>&emsp;<font face="Zapfino">Hill</font>
+<font face="Zapfino">George</font>  <font face="Zapfino">Hill</font>
 
 ------
 
