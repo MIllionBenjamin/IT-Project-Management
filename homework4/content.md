@@ -71,21 +71,21 @@ ______
 
 **签署人**：（上述全部利益相关者签名）
 
-<font face="Zapfino">Alice</font>
+<font face="Brush Script MT">Alice</font>
 <br />
-<font face="Zapfino">Million Benjamin</font>
+<font face="Brush Script MT">Million Benjamin</font>
 <br />
-<font face="Zapfino">Chloe</font>
+<font face="Brush Script MT">Chloe</font>
 <br />
-<font face="Zapfino">David</font>
+<font face="Brush Script MT">David</font>
 <br />
-<font face="Zapfino">Eric</font>
+<font face="Brush Script MT">Eric</font>
 <br />
-<font face="Zapfino">Frank</font>
+<font face="Brush Script MT">Frank</font>
 <br />
-<font face="Zapfino">George</font> 
+<font face="Brush Script MT">George</font> 
 <br />
-<font face="Zapfino">Hill</font>
+<font face="Brush Script MT">Hill</font>
 
 ------
 
