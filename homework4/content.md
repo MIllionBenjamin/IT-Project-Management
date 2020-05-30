@@ -70,7 +70,12 @@ ______
 ------
 
 **签署人**：（上述全部利益相关者签名）
-
+<style type="text/css">
+@font-face {
+    font-family: 'Zapfino';/*这里填写字体名*/
+    src: url('Fonts/Zapfino.ttf') format('ttf');/*这里填写字体路径，我放在了和网页同一目录下的font文件夹内，字体文件名称为font.woff*/
+}
+</style>
 <font face="Zapfino">Alice</font>
 <br />
 <font face="Zapfino">Million Benjamin</font>
