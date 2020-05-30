@@ -72,7 +72,7 @@ ______
 **签署人**：（上述全部利益相关者签名）
 
 <font face="Zapfino">Alice</font>
-
+<br />
 <font face="Zapfino">Million Benjamin</font>
 <br />
 <font face="Zapfino">Chloe</font>
@@ -113,7 +113,7 @@ Hill:
 ## 二、项目策划研讨会思维导图
 
 ### 1. 思维导图展示
-一款校园服务项目的策划研讨会思维导图如下所示：
+一款校园服务项目的策划研讨会思维导图如下所示（可放大网页以清楚查看）：
 ![](./Images/scheme_seminar.jpg)
 
 ### 2. 思维导图优缺点分析
