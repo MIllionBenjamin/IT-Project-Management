@@ -52,7 +52,9 @@
 ### [看板使用指南：从三列看板到灵活的布局设计](https://www.infoq.cn/article/kanban-step-guide)
 
 > Author: Alex Novkov
+> 
 > Translator: 无明
+> 
 > 05.2018
 
 #### 关键要点
