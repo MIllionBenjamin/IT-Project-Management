@@ -25,6 +25,7 @@
     - [VI. FileZilla](#vi-filezilla)
     - [VII. Gunicorn](#vii-gunicorn)
     - [VIII. Postman](#viii-postman)
+    - [IX. Nginx](#ix-nginx)
   - [4. 感谢](#4-感谢)
 
 ## 0. 前言
@@ -277,6 +278,38 @@ gunicorn -b 0.0.0.0:8383 Kanban_api:app
 将[Ultimate Project Kanban API Test.postman_collection.json](https://github.com/Invincible-Inc/Final-Work/blob/master/codes/Backend/Ultimate%20Project%20Kanban%20API%20Test.postman_collection.json)导入（import）到Postman中即可查看。
 
 ![](./Images/postman.png)
+
+### IX. [Nginx](https://nginx.org/en/)
+
+一个高性能的HTTP和反向代理web服务器。作业中，在服务器上运行Nginx服务，以部署并启用前端Vue代码。
+
+```bash
+# Ubuntu上安装Nginx
+sudo sudo apt install nginx
+
+# 启动Nginx
+service nginx restart
+
+# 修改Nginx配置
+vim /etc/nginx/sites-enabled/default
+```
+
+修改 `server` 模块下配置为：
+![](./Images/nginx_conf.png)
+
+然后把Vue项目build后得到的dist文件夹复制到 `/var/www/html`
+
+重新加载Nginx配置：
+
+```bash
+nginx -s reload
+```
+
+访问[http://120.25.251.110/dist](http://120.25.251.110/dist)
+
+网站成功运作。
+
+
 
 
 ## 4. 感谢
